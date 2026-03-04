@@ -4,6 +4,7 @@
 - [x] Define core path: installable agent skills → traffic → conversion → affiliate commissions (cross-domain scaling)
 
 ## Product (OTA Deal-Alert Skill — Skills-First)
+**Priority: P0**
 - [x] Finalize MVP spec with skills-first distribution baked in (architect draft received)
 - [x] Define data sources + affiliate programs shortlist (ops/ba drafts received)
 - [ ] Build Skill package v0.1 (travel deals + itinerary + disclosure)
@@ -11,23 +12,27 @@
 - [ ] Draft disclosure/terms snippets for skills output
 
 ## Distribution (ClawHub + Agent Ecosystem — Core Path)
-- [ ] Audit existing travel booking skills (done: low installs)
+**Priority: P0**
 - [ ] Define differentiation: deal alerts + itinerary + affiliate tracking
 - [ ] Publish Skill to ClawHub (name TBD)
 - [ ] Add install guide + example prompts
 - [ ] Create “skills-first” distribution playbook (how agents install, drive traffic, convert)
+- [ ] Audit existing travel booking skills (done: low installs)
 
 ## Ops/Data
+**Priority: P1**
 - [x] Flight price alert pipeline (Kiwi/Travelpayouts/Skyscanner) (ops draft received)
 - [x] Hotel price alert pipeline (Booking/Agoda) (ops draft received)
 - [ ] Alert rules + de-dup logic
 
 ## Growth & Content
+**Priority: P1**
 - [x] Cold-start content plan (Japan + Thailand) [drafted]
 - [x] Newsletter template (weekly deals) (bops draft received)
 - [ ] Example deal alerts + itineraries for Skill demo
 
 ## Business & Legal
+**Priority: P2**
 - [ ] Affiliate disclosure wording
 - [ ] Affiliate program applications (Trip.com, Agoda, Expedia/Partnerize)
 - [ ] Decide entity strategy (budget constraints)
