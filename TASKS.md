@@ -44,5 +44,12 @@
 - [x] BA: affiliate program comparison + requirements
 - [x] Bops: cold-start content plan
 
+## Process (Agile + TDD + QA)
+- [ ] Define iteration cadence + standup schedule
+- [ ] Define role-based pipeline ownership (Product/Arch/Frontend/Ops/BA/Bops/QA)
+- [ ] TDD rule: each dev task must include tests before implementation
+- [ ] QA rule: QA validates acceptance criteria before task closes
+
 ## Notes
 - Keep outputs aligned to skills-first distribution model.
+- Standups are used for cross-pipeline sync and blockers.
