@@ -28,6 +28,7 @@ Create an installable agent skill that:
 - **Affiliate programs + requirements**: see `references/affiliates.md`
 - **Ops/data pipeline**: see `references/ops.md`
 - **Cold-start content plan (CN)**: see `references/content-cn.md`
+- **Acceptance criteria (TDD)**: see `references/acceptance.md`
 
 ## Guardrails
 - Do NOT claim to book tickets; always direct to OTA/affiliate links.
