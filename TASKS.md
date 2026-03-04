@@ -3,18 +3,19 @@
 ## Core Strategy
 - [x] Define core path: installable agent skills → traffic → conversion → affiliate commissions (cross-domain scaling)
 
-## Product (OTA Deal-Alert Skill)
-- [ ] Finalize MVP spec (skills-first distribution)
+## Product (OTA Deal-Alert Skill — Skills-First)
+- [ ] Finalize MVP spec with skills-first distribution baked in
 - [ ] Define data sources + affiliate programs shortlist
 - [ ] Build Skill package v0.1 (travel deals + itinerary + disclosure)
-- [ ] Create landing page copy for Skill listing
+- [ ] Create landing page copy for Skill listing (skills-first positioning)
 - [ ] Draft disclosure/terms snippets for skills output
 
-## Distribution (ClawHub + Agent Ecosystem)
+## Distribution (ClawHub + Agent Ecosystem — Core Path)
 - [ ] Audit existing travel booking skills (done: low installs)
 - [ ] Define differentiation: deal alerts + itinerary + affiliate tracking
 - [ ] Publish Skill to ClawHub (name TBD)
 - [ ] Add install guide + example prompts
+- [ ] Create “skills-first” distribution playbook (how agents install, drive traffic, convert)
 
 ## Ops/Data
 - [ ] Flight price alert pipeline (Kiwi/Travelpayouts/Skyscanner)
